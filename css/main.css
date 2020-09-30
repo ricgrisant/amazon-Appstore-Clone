@@ -1,0 +1,58 @@
+body {
+    padding-top: 5rem;
+}
+
+.row {
+    padding-bottom: 15px
+}
+
+.starter-template {
+    padding: 1rem 1.5rem;
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.col{
+    padding-left: 0px !important;
+}
+.info-app{
+    padding: 10px;
+    border: 1px solid;
+    border-color: #ffc10775;
+    border-radius: 5px;
+}
+
+.app-img{
+    width: 100%;
+}
+
+.carta{
+    margin-bottom: 15px;
+    padding-left: 0px;
+}
+
+.info-app:hover{
+    background-color: rgb(0 0 0 / 82%);
+    box-shadow: 0px 0px 20px 7px #cabc0c;
+    color: white;
+}
+
+.estrellas{
+    color: #ffc107;
+}
+
+.estrellasModal{
+    color: #689F38;
+}
+
+.estrellas:hover{
+    color: white;
+}
+
+.comen-usuarios-modal{
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
